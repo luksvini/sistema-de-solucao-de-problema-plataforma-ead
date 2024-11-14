@@ -6,14 +6,14 @@
 </div>
 
 ### Funcionalidades do Aplicativo
-- Procurar um problema comum para uma plataforma EAD
+- Procurar um problema comum para uma plataforma EAD <br>
 - Receber uma possível solução
 
 <hr>
 
 ## Pré-requisitos
 
-:warning: [Python](https://www.python.org) 🐍
+:warning: [Python](https://www.python.org) 🐍 <br>
 lib: flet
 
 
