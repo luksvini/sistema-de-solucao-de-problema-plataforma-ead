@@ -14,7 +14,7 @@
 ## Pré-requisitos
 
 :warning: [Python](https://www.python.org) 🐍 <br>
-lib: flet
+:warning: [Flet](https://flet.dev/)  <br>
 
 
 ### Como rodar o Aplicativo
