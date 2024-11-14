@@ -1,0 +1,302 @@
+[
+    {
+        "problema": "Não consigo acessar a plataforma de EAD",
+        "solucao": "Verifique se você está usando o navegador recomendado e se a sua conexão com a internet está estável. Tente limpar o cache do navegador ou reiniciar o computador."
+    },
+    {
+        "problema": "O vídeo das aulas não está carregando ou travando",
+        "solucao": "Verifique a qualidade da sua conexão com a internet. Se possível, diminua a qualidade do vídeo na plataforma de EAD. Também pode ser útil fechar outros programas ou abas que estão consumindo a internet."
+    },
+    {
+        "problema": "Não consigo fazer o login na plataforma de EAD",
+        "solucao": "Verifique se o seu usuário e senha estão corretos. Se necessário, tente redefinir a senha ou entre em contato com o suporte técnico da plataforma."
+    },
+    {
+        "problema": "A plataforma de EAD está com lentidão",
+        "solucao": "Tente reiniciar o roteador ou use uma conexão com fio para garantir maior estabilidade. Fechar outros aplicativos ou dispositivos que estão consumindo internet também pode ajudar."
+    },
+    {
+        "problema": "A aula online está sem áudio",
+        "solucao": "Verifique se o volume do computador está ativado e ajustado corretamente. Certifique-se de que o microfone do professor está funcionando, ou teste com outro dispositivo de áudio, caso esteja usando fones de ouvido."
+    },
+    {
+        "problema": "Não consigo enviar a tarefa no sistema de EAD",
+        "solucao": "Verifique se o arquivo está no formato correto exigido pela plataforma. Caso o arquivo seja muito grande, tente compactá-lo. Se o problema persistir, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "Não consigo acessar materiais de estudo ou arquivos na plataforma",
+        "solucao": "Verifique se você tem permissões adequadas para acessar o conteúdo. Se o arquivo não carregar, tente abrir em outro dispositivo ou contate o professor para verificar se o material está disponível."
+    },
+    {
+        "problema": "O conteúdo da aula está desatualizado",
+        "solucao": "Verifique se a plataforma foi atualizada. Caso o material esteja realmente desatualizado, informe ao professor ou ao suporte da plataforma para que seja corrigido."
+    },
+    {
+        "problema": "Não consigo enviar um formulário ou questionário online",
+        "solucao": "Certifique-se de que todos os campos obrigatórios foram preenchidos. Tente atualizar a página ou usar outro navegador, caso o problema persista."
+    },
+    {
+        "problema": "Minha câmera não funciona durante a aula ao vivo",
+        "solucao": "Verifique se a câmera está conectada corretamente e se você deu permissão para o navegador usar a câmera. Reiniciar o computador ou usar outra aplicação para testar a câmera também pode ajudar."
+    },
+    {
+        "problema": "Não consigo abrir um arquivo de áudio ou vídeo da aula",
+        "solucao": "Verifique se você possui o programa necessário para reproduzir o tipo de arquivo. Tente usar um reprodutor de mídia atualizado, como o VLC. Se o arquivo estiver corrompido, peça ao professor para re-enviar o material."
+    },
+    {
+        "problema": "O material da aula está em formato incompatível",
+        "solucao": "Tente instalar o software ou aplicativo adequado para abrir o tipo de arquivo. Caso o problema persista, solicite ao professor para enviar o material em outro formato."
+    },
+    {
+        "problema": "A plataforma de EAD não está registrando minha presença",
+        "solucao": "Verifique se você está acessando a plataforma corretamente no horário da aula. Se o problema persistir, entre em contato com o suporte técnico ou com o professor para registrar sua presença manualmente."
+    },
+    {
+        "problema": "Não consigo baixar os arquivos de leitura",
+        "solucao": "Verifique se sua conexão com a internet está estável. Caso o arquivo seja muito grande, tente usar uma conexão com fio ou baixe o arquivo em horários de menor tráfego na internet."
+    },
+    {
+        "problema": "O site da plataforma está fora do ar",
+        "solucao": "Verifique se o problema é geral acessando outros sites. Caso apenas a plataforma esteja fora do ar, aguarde o retorno do serviço ou entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "Não consigo acessar o fórum de discussão",
+        "solucao": "Verifique se você está logado na plataforma e se a página do fórum está disponível. Tente acessar o fórum em outro navegador ou dispositivo."
+    },
+    {
+        "problema": "Estou com dificuldades para navegar no ambiente virtual de aprendizagem",
+        "solucao": "Assista ao tutorial ou guia da plataforma, caso disponível. Se necessário, entre em contato com o suporte da plataforma para orientações ou ajuda."
+    },
+    {
+        "problema": "A plataforma está mostrando erros ou mensagens de falha",
+        "solucao": "Tente limpar o cache do navegador ou acessar a plataforma em outro navegador. Caso o erro persista, entre em contato com o suporte técnico para que o problema seja resolvido."
+    },
+    {
+        "problema": "Não consigo fazer anotações no material de estudo",
+        "solucao": "Verifique se a plataforma permite o uso de ferramentas de anotação. Se a funcionalidade não estiver disponível, tente fazer anotações em um documento separado, como no Word ou Google Docs."
+    },
+    {
+        "problema": "Estou recebendo muitos e-mails de notificações da plataforma",
+        "solucao": "Acesse as configurações de notificações na plataforma e ajuste suas preferências para receber apenas as notificações essenciais."
+    },
+    {
+        "problema": "Não consigo acompanhar as aulas ao vivo por conta de fuso horário",
+        "solucao": "Verifique as opções de gravação na plataforma para assistir à aula posteriormente. Caso contrário, converse com o professor sobre a possibilidade de ajustar a programação das aulas para sua realidade."
+    },
+    {
+        "problema": "As interações nos fóruns estão muito confusas ou desorganizadas",
+        "solucao": "Tente usar filtros de busca ou tópicos para encontrar respostas mais facilmente. Caso a organização do fórum seja o problema, entre em contato com o administrador da plataforma ou com o professor para sugestões de melhoria."
+    },
+    {
+        "problema": "A plataforma está desconectando frequentemente",
+        "solucao": "Verifique a sua conexão com a internet. Se você estiver usando Wi-Fi, tente usar uma conexão com fio ou mudar para um local com sinal de internet mais forte."
+    },
+    {
+        "problema": "O chat de dúvidas não está funcionando corretamente",
+        "solucao": "Tente reiniciar a página ou usar outro navegador. Caso o problema persista, entre em contato com o suporte da plataforma ou com o professor para outras formas de comunicação."
+    },
+    {
+        "problema": "Não estou recebendo notificações importantes da plataforma",
+        "solucao": "Verifique as configurações de notificações na plataforma e ajuste para garantir que você esteja recebendo alertas para novos conteúdos ou mensagens. Também verifique a caixa de spam do seu e-mail."
+    },
+    {
+        "problema": "O sistema de avaliações está com erro e não consigo fazer a prova",
+        "solucao": "Tente atualizar a página ou acessar a plataforma de outro dispositivo. Se o erro continuar, entre em contato com o suporte técnico para que a avaliação seja liberada ou o problema corrigido."
+    },
+    {
+        "problema": "Minha internet está muito instável e estou tendo dificuldades para acompanhar a aula",
+        "solucao": "Tente usar uma conexão mais estável, como uma rede cabeada. Caso isso não seja possível, peça ao professor para disponibilizar a gravação da aula para assistir posteriormente."
+    },
+    {
+        "problema": "A plataforma está demorando muito para carregar as páginas",
+        "solucao": "Tente acessar a plataforma em horários de menor tráfego de internet. Se o problema persistir, entre em contato com o suporte da plataforma para verificar se há algum problema técnico."
+    },
+    {
+        "problema": "Não consigo abrir o arquivo PDF",
+        "solucao": "Verifique se você tem um leitor de PDF instalado, como o Adobe Acrobat Reader. Tente abrir o arquivo em outro dispositivo ou rebaixar o arquivo, caso ele esteja corrompido."
+    },
+    {
+        "problema": "O arquivo PDF está corrompido e não abre",
+        "solucao": "Tente baixar o arquivo novamente. Se o problema persistir, peça ao professor ou administrador da plataforma para enviar o arquivo novamente."
+    },
+    {
+        "problema": "O PDF não está exibindo corretamente (exibe apenas uma página em branco)",
+        "solucao": "Tente atualizar o leitor de PDF ou use outro programa, como o Foxit Reader. Se possível, abra o PDF em outro dispositivo para verificar se o problema é específico do seu computador."
+    },
+    {
+        "problema": "Não consigo editar o arquivo PDF",
+        "solucao": "Verifique se o arquivo PDF está bloqueado para edição. Se o arquivo for apenas para leitura, solicite ao professor uma versão editável ou preencha o documento utilizando uma ferramenta online como o PDFescape."
+    },
+    {
+        "problema": "O PDF não carrega na plataforma de EAD",
+        "solucao": "Tente atualizar a página ou baixar o arquivo para visualizá-lo em seu computador. Se o problema persistir, entre em contato com o suporte da plataforma ou peça para o professor reenvia-lo."
+    },
+    {
+        "problema": "As imagens no PDF não estão aparecendo",
+        "solucao": "Tente abrir o PDF em outro leitor, como o Adobe Acrobat Reader. Se o problema continuar, peça ao professor para re-enviar o arquivo ou verificar se ele foi corretamente gerado."
+    },
+    {
+        "problema": "O PDF está com o texto ilegível ou com formatação estranha",
+        "solucao": "Isso pode ocorrer devido a fontes incorretas. Tente abrir o arquivo em outro leitor de PDF ou, se possível, peça para o professor enviar o material em outro formato, como Word ou HTML."
+    },
+    {
+        "problema": "Não consigo imprimir o arquivo PDF",
+        "solucao": "Verifique se a impressora está conectada corretamente e se o PDF não está protegido contra impressão. Tente imprimir o arquivo em outra impressora ou converta o PDF para outro formato, como Word, e tente imprimir novamente."
+    },
+    {
+        "problema": "Não consigo pesquisar por palavras dentro do PDF",
+        "solucao": "Verifique se o PDF está em formato de texto pesquisável e não em formato de imagem. Se o arquivo for uma imagem digitalizada, você pode usar um programa de OCR (Reconhecimento Óptico de Caracteres) para converter a imagem em texto."
+    },
+    {
+        "problema": "O PDF está com a qualidade de imagem muito baixa",
+        "solucao": "Peça ao professor para enviar uma versão em maior resolução do arquivo ou verifique se há opções de qualidade ao abrir o arquivo no leitor de PDF."
+    },
+    {
+        "problema": "Não consigo extrair texto do PDF para copiar e colar",
+        "solucao": "Verifique se o arquivo PDF está protegido contra cópia. Se estiver, tente usar uma ferramenta de OCR para converter as imagens em texto ou peça ao professor para enviar uma versão desbloqueada do arquivo."
+    },
+    {
+        "problema": "O vídeo da aula não carrega",
+        "solucao": "Verifique sua conexão com a internet. Tente atualizar a página ou, se possível, reiniciar o roteador. Caso o problema persista, tente assistir em outro dispositivo ou entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "O vídeo da aula está travando constantemente",
+        "solucao": "Verifique a qualidade da sua conexão com a internet. Tente reduzir a qualidade do vídeo nas configurações da plataforma ou pause o vídeo por alguns minutos para carregar completamente."
+    },
+    {
+        "problema": "Não consigo ouvir o áudio da videoaula",
+        "solucao": "Verifique o volume do computador e certifique-se de que o áudio não está silenciado. Tente reiniciar o vídeo ou use fones de ouvido para garantir que o problema não seja nos alto-falantes."
+    },
+    {
+        "problema": "A imagem da videoaula está desfocada ou de baixa qualidade",
+        "solucao": "Tente reduzir a qualidade do vídeo na plataforma para uma versão que carregue melhor. Se a imagem continuar ruim, verifique sua conexão com a internet e, se possível, acesse o vídeo em outro dispositivo."
+    },
+    {
+        "problema": "O vídeo não está sincronizado com o áudio",
+        "solucao": "Tente pausar e reiniciar a videoaula. Se o problema continuar, tente assistir ao vídeo em outro navegador ou dispositivo. Se possível, avise o professor para que ele possa verificar se há problemas no arquivo."
+    },
+    {
+        "problema": "A videoaula não está reproduzindo no celular",
+        "solucao": "Verifique se o aplicativo ou navegador do celular está atualizado. Tente acessar a aula através de um navegador diferente ou, se disponível, use a versão para desktop da plataforma."
+    },
+    {
+        "problema": "A videoaula não está disponível para reprodução em horário agendado",
+        "solucao": "Verifique se o horário de exibição está correto no fuso horário da sua região. Caso o vídeo não esteja disponível na hora programada, aguarde a gravação ser disponibilizada ou entre em contato com o professor para saber quando o material ficará acessível."
+    },
+    {
+        "problema": "O vídeo está com o som baixo demais",
+        "solucao": "Verifique o volume da plataforma de videoaula, o volume do seu computador ou dispositivo, e a qualidade do áudio da aula. Caso o áudio continue baixo, tente usar fones de ouvido ou peça ao professor para ajustar o nível de som na gravação."
+    },
+    {
+        "problema": "O vídeo da aula está pausando sozinho",
+        "solucao": "Verifique se há problemas com a sua conexão à internet. Tente baixar o vídeo para assistir offline ou use uma conexão mais estável, se possível. Se o problema continuar, tente reiniciar a plataforma ou o dispositivo."
+    },
+    {
+        "problema": "A videoaula está sem legendas, mas deveria ter",
+        "solucao": "Verifique se as legendas estão ativadas nas configurações de reprodução. Caso as legendas ainda não apareçam, entre em contato com o suporte da plataforma ou o professor para relatar o problema."
+    },
+    {
+        "problema": "A qualidade do vídeo da aula está muito baixa",
+        "solucao": "Tente ajustar a qualidade do vídeo na plataforma (geralmente nas configurações de exibição). Se a qualidade não melhorar, tente assistir em outro dispositivo ou com uma conexão de internet mais estável."
+    },
+    {
+        "problema": "O vídeo da aula está com buffering constante",
+        "solucao": "Tente pausar o vídeo por alguns minutos para ele carregar completamente. Se isso não resolver, tente reduzir a qualidade do vídeo ou assistir em outro horário com menos tráfego na internet."
+    },
+    {
+        "problema": "A videoaula está bloqueada para reprodução",
+        "solucao": "Verifique se a aula foi disponibilizada corretamente ou se você tem permissão para assisti-la. Se o problema persistir, entre em contato com o suporte da plataforma ou com o professor para obter mais informações."
+    },
+    {
+        "problema": "Não consigo ver o conteúdo da videoaula em tela cheia",
+        "solucao": "Verifique se o ícone de tela cheia está disponível no player de vídeo. Caso não esteja funcionando, tente usar outro navegador ou dispositivo. Se o problema continuar, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "O vídeo da aula está bloqueado por direitos autorais ou outras restrições",
+        "solucao": "Entre em contato com o professor ou com a administração da plataforma para verificar se o vídeo pode ser disponibilizado de outra forma. Em alguns casos, a plataforma pode ter restrições de exibição baseadas em licenças de conteúdo."
+    },
+    {
+        "problema": "O vídeo da aula está exibindo um erro de carregamento",
+        "solucao": "Tente reiniciar o navegador ou usar um navegador diferente. Se o problema persistir, verifique sua conexão com a internet ou entre em contato com o suporte da plataforma para relatar o erro."
+    },
+    {
+        "problema": "Não consigo fazer pausas no vídeo da aula",
+        "solucao": "Verifique se o player de vídeo está funcionando corretamente. Caso contrário, tente acessar a aula de outro dispositivo ou navegador. Se o problema continuar, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "Não consigo acessar o chat de dúvidas",
+        "solucao": "Verifique se você está logado na plataforma e se o chat está disponível no momento. Caso o problema persista, tente atualizar a página ou entre em contato com o suporte técnico da plataforma."
+    },
+    {
+        "problema": "O chat está com atraso nas mensagens",
+        "solucao": "Isso pode ocorrer por conta da conexão de internet ou alta demanda no chat. Tente reiniciar a página ou usar uma conexão mais estável. Caso o problema continue, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "Não consigo enviar mensagens no chat",
+        "solucao": "Verifique se sua conexão com a internet está estável e se você não excedeu o limite de mensagens ou regras do chat. Se o problema continuar, tente usar outro navegador ou dispositivo."
+    },
+    {
+        "problema": "As mensagens no chat não estão carregando",
+        "solucao": "Tente atualizar a página ou reiniciar o aplicativo. Se isso não funcionar, verifique sua conexão com a internet e tente acessar o chat em outro navegador ou dispositivo."
+    },
+    {
+        "problema": "O chat está fora do ar ou inacessível",
+        "solucao": "Verifique se o problema é geral acessando outros sites. Caso apenas o chat não funcione, entre em contato com o suporte da plataforma para saber se há manutenção ou problemas técnicos."
+    },
+    {
+        "problema": "O fórum de discussões não está carregando",
+        "solucao": "Verifique sua conexão com a internet e tente acessar o fórum em outro navegador. Caso o problema persista, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "Não consigo fazer uma postagem no fórum",
+        "solucao": "Verifique se você tem permissão para postar no fórum ou se há algum campo obrigatório não preenchido. Se necessário, entre em contato com o moderador ou professor para garantir que o fórum esteja configurado corretamente."
+    },
+    {
+        "problema": "As postagens no fórum estão desorganizadas",
+        "solucao": "Tente usar filtros ou ordenação para encontrar as postagens mais relevantes. Se o problema de organização for geral, entre em contato com o professor ou o administrador da plataforma."
+    },
+    {
+        "problema": "Não consigo responder a uma postagem no fórum",
+        "solucao": "Verifique se você está logado corretamente e se não há nenhum bloqueio em sua conta. Se o problema continuar, tente acessar o fórum de outro navegador ou dispositivo."
+    },
+    {
+        "problema": "As mensagens no fórum não estão sendo enviadas",
+        "solucao": "Verifique se há algum problema com sua conexão à internet. Tente atualizar a página ou usar outro navegador. Caso o problema persista, entre em contato com o suporte técnico da plataforma."
+    },
+    {
+        "problema": "Estou recebendo muitas notificações do fórum",
+        "solucao": "Acesse as configurações de notificações no fórum e ajuste para receber apenas as notificações essenciais, como respostas às suas postagens ou novos tópicos."
+    },
+    {
+        "problema": "O fórum está mostrando mensagens antigas e não as mais recentes",
+        "solucao": "Tente atualizar a página ou verificar as opções de ordenação do fórum, como 'mensagens mais recentes'. Se o problema continuar, entre em contato com o suporte da plataforma."
+    },
+    {
+        "problema": "As postagens no fórum estão aparecendo com erros de formatação",
+        "solucao": "Verifique se o editor de texto do fórum está funcionando corretamente. Se necessário, edite sua postagem em um editor externo e cole novamente no fórum. Caso o problema persista, avise o professor ou o administrador da plataforma."
+    },
+    {
+        "problema": "Não consigo encontrar o fórum ou a discussão relacionada à aula",
+        "solucao": "Verifique se você está acessando o fórum correto, relacionado à disciplina ou módulo da aula. Caso não encontre, entre em contato com o professor para confirmar onde o fórum foi disponibilizado."
+    },
+    {
+        "problema": "O chat está bloqueado ou desativado",
+        "solucao": "Verifique se o chat está disponível dentro do horário e se você tem permissão para acessá-lo. Caso o chat tenha sido desativado, entre em contato com o professor ou com o suporte para mais informações."
+    },
+    {
+        "problema": "Não consigo visualizar imagens ou arquivos no fórum",
+        "solucao": "Verifique se a imagem ou o arquivo foi carregado corretamente. Tente baixar o arquivo para o seu computador ou peça ao professor para reenviar o material caso haja algum erro no upload."
+    },
+    {
+        "problema": "O fórum está com muita informação e está difícil de acompanhar",
+        "solucao": "Tente utilizar filtros para organizar as postagens por data ou por tópicos. Caso o fórum seja muito extenso, use palavras-chave para procurar postagens específicas."
+    },
+    {
+        "problema": "O chat está com erro ao tentar enviar emojis ou arquivos",
+        "solucao": "Verifique se a plataforma permite o envio de emojis ou arquivos e se você está utilizando o formato correto. Tente atualizar o navegador ou entre em contato com o suporte técnico da plataforma."
+    },
+    {
+        "problema": "O fórum não está atualizando as novas postagens",
+        "solucao": "Tente atualizar a página manualmente ou sair e entrar novamente no fórum. Caso o problema persista, verifique se há configurações de cache no seu navegador que estão impedindo a atualização das postagens."
+    }
+]
